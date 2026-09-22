@@ -30,7 +30,7 @@ En este repositorio documento proyectos prácticos de testing de software, cubri
 
 - **Ubicación:** Paraguay
 - **Título:** Ingeniera en Sistemas Informáticos
-- **GitHub:** [https://github.com/yaniortiz987](https://github.com/yaniortiz987)
+- **GitHub:** [yaniortiz987](https://github.com/yaniortiz987)
 
 ---
 *Gracias por revisar mi portafolio.*
