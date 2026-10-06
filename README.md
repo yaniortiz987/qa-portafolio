@@ -14,7 +14,6 @@ En este repositorio documento proyectos prácticos de testing de software, cubri
 - **Metodologías de Trabajo:** Scrum / Ágiles.
 
 ---
-
 ## 📂 Proyectos Incluidos
 
 ### 1. 📋 [Testing Manual y Documentación de Pruebas](./01-manual-testing/)
@@ -23,6 +22,12 @@ En este repositorio documento proyectos prácticos de testing de software, cubri
   - [Plan de Pruebas (Test Plan)](./01-manual-testing/Test_Plan.md)
   - [Casos de Prueba (Test Cases)](./01-manual-testing/Test_Cases.md)
   - [Reporte de Bugs (Bug Report)](./01-manual-testing/Bug_Report.md)
+
+### 2. 🗄️ [Validación de Datos con SQL para QA](./02-sql-data-validation/)
+- **Descripción:** Scripts de creación de esquemas de datos y consultas SQL de testing diseñadas para validar integridad de negocio, registros de usuarios y cálculos de transacciones.
+- **Entregables:**
+  - [Esquema y Datos de Prueba](./02-sql-data-validation/schema.sql)
+  - [Consultas de Validación QA](./02-sql-data-validation/qa_queries.sql)
 
 ---
 
